@@ -38,7 +38,7 @@
     <li>To protect this setup and diffuse the bright/directional LED light, crush a one pint plastic milk bottle flat, cut a slit in the side, and place the Pi (with HAT) inside. You can already place this in your stove and run the program, and should start to resemble glowing firelight. Ultimately you can add logs around it for a more realistic effect, but there are more steps to go through first if you want to set up the sound and other elements.</li>
     <li>The withoutfire.py file is commented in some detail to indicate which settings you can tweak.</li>
 </ol>
-<p><img scr="https://github.com/mikefsway/withoutfire/blob/main/images/bottle.jpg" alt="Image of Pi in milk bottle"></p>
+<p><img scr="https://github.com/mikefsway/withoutfire/blob/main/images/bottle.jpg?raw=true" alt="Image of Pi in milk bottle"></p>
 <h2>Sound</h2>
 <p>When the withoutfire.py runs, it also plays a sound file on a ~5 minute loop. Similar to the light, this becomes quieter over a period of around 30 minutes, simulating a real fire burning down. The sound file used is an edited version of a <a href="https://freesound.org/people/petebuchwald/sounds/496130/">fireplace recording by petebuchwald</a> available on freesound.</p>
 <p>I&rsquo;ve included three versions of the sound file. One has quite quiet crackles relative to the background hiss of the stove, and two with increasingly loud crackles. The version that plays can be changed in the withoutfire.py file. Choose the version that sounds best on your speaker setup.</p>
