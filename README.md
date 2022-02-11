@@ -61,7 +61,7 @@ You could also use a Bluetooth speaker.
 
 This is an interesting one, and I'm still not completely sold on it. I picked up a cheap USB-powered aroma oil diffuser, and it comes on automatically with the Pi. I've taped it to the back of the speaker for ease of setup/stowing. It has a setting to release scent once a minute. The scent I've found so far (linked above) is quite nice but a bit like a Scandinavian spa. I'd like to find something that is more like just wood smoke. Maybe you can find something better.
 
-![Image of speaker and scent diffuser](/images/speaker.jpg?raw=true)
+![Image of speaker and scent diffuser](/images/speaker.png?raw=true)
 
 ## Heat
 
