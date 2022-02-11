@@ -2,6 +2,10 @@
 
 Without Fire is a wood-burning stove simulator that aims to replicate in part the look, sounds, scent, and feel of a real stove. The motivation for this project was to help households with woodburners reduce air pollution while still enjoying their stove. It is based around a Raspberry Pi computer, and this repository includes full details to let you replicate it (and improve it!) yourself.
 
+## Background
+
+Domestic burning, including in wood burning stoves, is the [biggest source of harmful PM 2.3 emissions in the UK](https://www.gov.uk/government/statistics/emissions-of-air-pollutants/emissions-of-air-pollutants-in-the-uk-particulate-matter-pm10-and-pm25). The top reason cited for domestic burning is "to create a homely feel", with almost half of respondents to a UK survey citing this reason [(this PDF, p86)](http://randd.defra.gov.uk/Document.aspx?Document=14972_Finalreport-BurninginUKhomesandgardens.pdf). My aim with this project was to try to recreate as much of the homely feel of a wood fired stove as possible, without the emissions.   
+
 ## Materials
 
 I've provided links to new items but many can be sourced second-hand on Ebay.
