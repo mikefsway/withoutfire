@@ -33,7 +33,6 @@ I've provided links to new items but many can be sourced second-hand on Ebay.
         </ol>
     </li>
 </ul>
-The total cost of the build could be in the order of ~&pound;70, although this can be reduced by focusing only on the light/sound elements which are probably the core ones.
 
 ## Raspbery Pi setup
 
