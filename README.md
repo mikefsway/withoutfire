@@ -1,6 +1,6 @@
 # Without Fire wood-burning stove simulator
 
-Without Fire is a wood-burning stove simulator that aims to replicate (at least in part) the look, sounds, smell, and feel of a real stove. The motivation for this project was to help households with woodburners reduce air pollution while still enjoying their stove. It is based around a Raspberry Pi computer, and this repository includes full details to let you replicate it (and improve it!) yourself.
+Without Fire is a wood-burning stove simulator that aims to replicate in part the look, sounds, scent, and feel of a real stove. The motivation for this project was to help households with woodburners reduce air pollution while still enjoying their stove. It is based around a Raspberry Pi computer, and this repository includes full details to let you replicate it (and improve it!) yourself.
 
 ## Materials
 
