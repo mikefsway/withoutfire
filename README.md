@@ -70,7 +70,8 @@ Obviously one of the main functions of a stove is to provide heat. They are nota
 ## Final setup
 
 Place the Pi (in milk bottle) in the stove, a stack logs around it in a realistic manner. I find having some smaller sticks across the bottle to break up the shape helps create a more realistic illusion. I've done my best to check the temperature the setup gets to and haven't experienced it becoming warm (let along hot), but clearly this is a risk you should pay attention to.
-[IMAGE]
+
+![Image of device in stove](/images/kindling.png?raw=true)
 
 In our stove the door can be closed with the cables for the Pi power, audio, etc. emerging from it. The speaker(s) can be hidden away to the side if possible, and you may like to use tape to cover any annoying power lights.
 I use cron to run the script automatically on startup. You do this by entering &ldquo;crontab &ndash;e&rdquo;, then adding the following line to the end of the file: &ldquo;@reboot python /home/pi/Pimoroni/withoutfire/withoutfire.py&rdquo; (or whatever the path on your system is).
@@ -79,6 +80,6 @@ I use cron to run the script automatically on startup. You do this by entering &
 
 I've been using the simulator a lot since setting it up. Obviously it doesn't look as good as a real fire with proper flames. But it is really nice to have ticking away in the background with the lights dimmed. It is also really handy to be able to turn in on for short periods.
 
-[IMAGE]
-&nbsp;
-[IMAGE
+![Image of device working](/images/glowing1.png?raw=true)
+
+![Image of device working](/images/glowing2.png?raw=true)
