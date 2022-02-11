@@ -4,7 +4,7 @@ Without Fire is a wood-burning stove simulator that aims to replicate in part th
 
 ## Background
 
-Domestic burning, including in wood burning stoves, is the [biggest source of harmful PM 2.3 emissions in the UK](https://www.gov.uk/government/statistics/emissions-of-air-pollutants/emissions-of-air-pollutants-in-the-uk-particulate-matter-pm10-and-pm25). The top reason cited for domestic burning is "to create a homely feel", with almost half of respondents to a UK survey citing this reason [(this PDF, p86)](http://randd.defra.gov.uk/Document.aspx?Document=14972_Finalreport-BurninginUKhomesandgardens.pdf). My aim with this project was to try to recreate as much of the homely feel of a wood fired stove as possible, without the emissions.   
+Domestic burning, including in wood burning stoves, is the [biggest source of harmful PM 2.3 emissions in the UK](https://www.gov.uk/government/statistics/emissions-of-air-pollutants/emissions-of-air-pollutants-in-the-uk-particulate-matter-pm10-and-pm25). The top reason cited for domestic burning is "to create a homely feel", with almost half of respondents to a UK survey citing this reason [(this PDF, p86)](http://randd.defra.gov.uk/Document.aspx?Document=14972_Finalreport-BurninginUKhomesandgardens.pdf). My aim with this project was to try to recreate as much of the homely feel of a wood fired stove as possible, without the emissions. Moreover, I wanted the solution to be retrofittable into existing stoves. There are plenty of options on the market for [electric stoves](https://www.directstoves.com/stoves/electric-stoves.html), but many people already own a wood fired version and will likely want to continue using it to some extent. 
 
 ## Materials
 
