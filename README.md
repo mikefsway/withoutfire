@@ -46,7 +46,7 @@ A Unicorn HAT Mini LED matrix is used to create a flickering orange light that r
     <li>The withoutfire.py file is commented in some detail to indicate which settings you can tweak.</li>
 </ol>
 
-![Image of Pi in milk bottle](/images/bottle.jpg?raw=true)
+![Image of Pi in milk bottle](/images/bottle.png?raw=true)
 
 ## Sound
 When the withoutfire.py runs, it also plays a sound file on a ~5 minute loop. Similar to the light, this becomes quieter over a period of around 30 minutes, simulating a real fire burning down. The sound file used is an edited version of a <a href="https://freesound.org/people/petebuchwald/sounds/496130/">fireplace recording by petebuchwald</a> available on freesound.
