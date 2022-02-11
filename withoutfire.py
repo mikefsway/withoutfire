@@ -30,7 +30,7 @@ Press Ctrl+C to exit
 # of mult. 1 = no change, while 0.9 = rapid change. Default setting
 # is 0.95.
 
-mult = 0.95
+mult = 0.96
 
 # Sets the audio file which is played, and volume.
 
