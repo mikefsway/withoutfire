@@ -34,7 +34,7 @@ mult = 0.96
 
 # Sets the audio file which is played, and volume.
 
-file = "/home/pi/Pimoroni/withoutfire/mediumfire.mp3" # alt options of quietfire.mp3 or loudfire.mp3
+file = "/home/pi/Pimoroni/withoutfire/sounds/mediumfire.mp3" # update to your own file path. Alt options of quietfire.mp3 or loudfire.mp3
 volbase = 0.2 
 voladd = 0.1 # determines difference between start and final volume
 vol = volbase + voladd
