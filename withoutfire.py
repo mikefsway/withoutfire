@@ -3,7 +3,9 @@
 # This script is designed to simulate the light and sound of a wood-fired stove --
 # see github.com/mikefsway/withoutfire.git for more on the hardware setup
 
-# Adapted from:
+# Adapted from the the forest fire example program available on the
+# Unicorn HAT Mini git repository github.com/pimoroni/unicornhatmini-python.
+
 # Forest fire model cellular automaton. Simulates the growth
 # of trees in a forest, with sporadic outbreaks of forest fires.
 
