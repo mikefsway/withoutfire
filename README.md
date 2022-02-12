@@ -49,6 +49,8 @@ A Unicorn HAT Mini LED matrix is used to create a flickering orange light that r
     <li>The withoutfire.py file is commented in some detail to indicate which settings you can tweak.</li>
 </ol>
 
+Note: I've also operated this with an additional short strong of orange USB-powered fairy lights underneath more translucent plastic (a cut open milk bottle!). They make the overall light brighter and more widespread, which could be better for less shaded areas such as an open fireplace. But they do make the flickering less prominent.
+
 ![Image of Pi in milk bottle](/images/bottle.png?raw=true)
 
 ## Sound
