@@ -79,9 +79,15 @@ Place the Pi (in milk bottle) in the stove, a stack logs around it in a realisti
 In our stove the door can be closed with the cables for the Pi power, audio, etc. emerging from it. The speaker(s) can be hidden away to the side if possible, and you may like to use tape to cover any annoying power lights.
 I use cron to run the script automatically on startup. You do this by entering &ldquo;crontab &ndash;e&rdquo;, then adding the following line to the end of the file: &ldquo;@reboot python /home/pi/Pimoroni/withoutfire/withoutfire.py&rdquo; (or whatever the path on your system is).
 
-## Final thoughts
+## Final thoughts and next steps
 
 I've been using the simulator a lot since setting it up. Obviously it doesn't look as good as a real fire with proper flames. But it is really nice to have ticking away in the background with the lights dimmed. It is also really handy to be able to turn in on for short periods.
+
+Things I would like to improve about the project:
+- While the milk bottle is effective and a good re-use option, I'd like to come up with something that looks a but sleeker. I'm experienting with alternatives and will update.
+- If I had a battery pack, I'd be interested to see how long it could operate on a single charge. This would avoid the need for there to be a plug socket near to the stove. 
+- It would be great to introduce an element that replicates actual flames or smoke. There are commercial options available, which I think use a similar technology to the nebuliser in the oil (scent) diffuser. But I haven't had a chance to play with this yet, and obviously you would need to be careful about creating water vapour inside the stove.
+- It could be interesting to work on something that indicates when weather conditions are worse for air pollution, making it especially bad to use a stove and recommending the use of the simulator instead.
 
 ![Image of device working](/images/glowing1.png?raw=true)
 
