@@ -91,6 +91,8 @@ Things I would like to improve about the project:
 - It would be great to introduce an element that replicates actual flames or smoke. There are commercial options available, which I think use a similar technology to the nebuliser in the oil (scent) diffuser. But I haven't had a chance to play with this yet, and obviously you would need to be careful about creating water vapour inside the stove.
 - It could be interesting to work on something that indicates when weather conditions are worse for air pollution, making it especially bad to use a stove and recommending the use of the simulator instead.
 
+![Image of device working](/images/firegif.gif?raw=true)
+
 ![Image of device working](/images/glowing1.png?raw=true)
 
 ![Image of device working](/images/glowing2.png?raw=true)
